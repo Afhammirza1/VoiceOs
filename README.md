@@ -30,6 +30,4 @@ An AI-powered Android assistant that lets you control your entire phone using vo
 - Enable Accessibility & Voice Services.
 - Run on physical device for full access.
 
-## 📄 License
 
-MIT License.
